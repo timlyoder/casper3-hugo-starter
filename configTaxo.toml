@@ -25,3 +25,5 @@ simple = true
 [privacy.youtube]
 disabled = false
 privacyEnhanced = true
+
+ignoreErrors = ["error-remote-getjson"]
